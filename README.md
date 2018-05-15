@@ -24,3 +24,11 @@ All readme files within this project are written according to the [Common Mark][
 [jenkinsdocker]:https://hub.docker.com/r/jenkins/jenkins/
 [jenkinsblue]:https://jenkins.io/projects/blueocean/
 [jenkinsbluedocker]:https://hub.docker.com/r/jenkinsci/blueocean/
+
+# Thanks
+
+Volume permission solution as noted (here)[https://github.com/jenkinsci/docker/issues/158] can be found (here)[https://github.com/carlossg/jenkins-for-volumes-docker].
+
+# License
+
+See (LICENSE)[./LICENSE]
